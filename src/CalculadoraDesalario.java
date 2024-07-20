@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ProvaCodingTank {
+public class CalculadoraDesalario {
     public static void main(String[] args) {
 
         System.out.println("Bem-vindo. Este programa calcula o salário líquido, junto aos seus descontos do INSS e IFPR e os disponibiliza.");

@@ -1,5 +1,3 @@
-//Classe para calcular o INSS.
-
 public class CalculoINSS {
     public static double calculoINSS(double salario) {
 

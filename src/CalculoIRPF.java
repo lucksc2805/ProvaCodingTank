@@ -1,5 +1,3 @@
-//Classe para calcular o Imposto de Renda.
-
 public class CalculoIRPF {
     public static double calculoIR(double salario) {
 

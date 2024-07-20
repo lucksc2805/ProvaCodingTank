@@ -1,6 +1,8 @@
 public class CalculoIRPF {
     public static double calculoIR(double salario) {
 
+        // o cálculo das alíquotas foi feito num sistema semelhante ao do INSS.
+
         double desconto;
 
         if (salario <= 1903.98) {

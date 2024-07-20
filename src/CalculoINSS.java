@@ -1,6 +1,9 @@
 public class CalculoINSS {
     public static double calculoINSS(double salario) {
 
+        // os cálculos das alíquotas foram feitos baseados no sistema de cálculo do site: https://www.pontotel.com.br/calculo-inss/
+        // os valores utilizados são os disponibilizados no exercício, e não o do site!
+
         double desconto;
 
         if (salario <= 1212.00) {
